@@ -8,4 +8,6 @@ main()
 
    printf("Hello You!\n");
 
+ printf("Hey You!\n");
+
 }
